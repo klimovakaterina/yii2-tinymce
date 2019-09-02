@@ -1,0 +1,14 @@
+{
+    "name": "klimovakaterina/yii2-tinymce",
+    "description": "tinymce for yii2",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"klimovakaterina\\EditorWidget\\":"src/",
+			"klimovakaterina\\EditorWidgetAsset\\":"src/",
+		}
+	}
+}
