@@ -4,6 +4,9 @@
     "type": "yii2-extension",
 	"version":"1.0.0",
     "require": {},
+	"license": "MIT",
+	"minimum-stability": "dev",
+    "prefer-stable" : true,
 	"autoload":{
 		"psr-4":{
 			"klimovakaterina\\EditorWidget\\":"src/"
