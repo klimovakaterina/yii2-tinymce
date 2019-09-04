@@ -1,9 +1,8 @@
 {
     "name": "klimovakaterina/yii2-tinymce",
     "description": "tinymce for yii2",
-    "type": "library",
-    "license": "BSD-3-Clause",
-	"minimum-stability": "dev",
+    "type": "yii2-extension",
+	"version":"1.0.0",
     "require": {},
 	"autoload":{
 		"psr-4":{
