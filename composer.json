@@ -9,7 +9,7 @@
     "prefer-stable" : true,
 	"autoload":{
 		"psr-4":{
-			"klimovakaterina\\EditorWidget\\":"src/"
+			"klimovakaterina\\EditorWidget\\":"src"
 		}
 	}
 }
